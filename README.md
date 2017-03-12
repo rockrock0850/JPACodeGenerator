@@ -1,0 +1,2 @@
+# JPACodeGenerator
+JPA Code Generator
